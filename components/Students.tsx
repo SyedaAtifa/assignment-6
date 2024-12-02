@@ -31,7 +31,7 @@ function Students() {
           <div className="h-[322px] w-full p-8 border border-black hidden md:block">
             <Image src={"/images/Stars.svg"} alt="stars" width={116} height={19}/>
             <div className="h-[215px] w-[316px]">
-              <p className="h-[135px] w-full text-lg my-6">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."&quot;</p>
+              <p className="h-[135px] w-full text-lg my-6">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</p>
               <Image src={"/images/stephen1.svg"} alt="stephen" width={254} height={54}/>
             </div>
           </div>
