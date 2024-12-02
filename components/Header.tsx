@@ -68,7 +68,7 @@ function Header() {
            height={390}          
           />
         </div>
-          <Image className="hidden md:block xl:w-[640px] xl:h-[800px] md:h-[640px] " src={"/images/image.svg"} alt="img" width={640} height={800}/>
+          <Image className="hidden md:block xl:w-[640px] xl:h-[800px] md:h-[640px] " src={"/images/image.svg"} alt="iamge" width={640} height={800}/>
       </div>
       {/* learn */}
 
