@@ -74,7 +74,7 @@ function Header() {
 
       {/* logos */}
       <div className="w-[100vw] h-[240px] flex flex-col gap-6 pt-12 px-6 text-lg font-bold md:flex-row mt-8 xl:mt-48">
-        <h5 className="md:text-2xl">Trusted by the world's best companies<p className="lg:hidden">[social proof to build credibility]</p></h5>
+        <h5 className="md:text-2xl">Trusted by the world&apos;s best companies<p className="lg:hidden">[social proof to build credibility]</p></h5>
         <div className="h-[65px] py-4">
           <Image src={"/images/Logos.svg"} alt="logos" width={1374} height={65}/>
         </div>
